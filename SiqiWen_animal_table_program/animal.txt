@@ -1,0 +1,4 @@
+dog|labs|harley|play|2|lovable
+cat|tiger|miao|eat|5|big
+turtle|turtle|guigui|slow|9|crawl
+dog|husky|tiantian|cute|3|likes to jump
